@@ -1,6 +1,7 @@
 
 *.mat
 
+parforProgress*.txt
 *.m~
 
 
